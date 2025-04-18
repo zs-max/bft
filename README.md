@@ -1,5 +1,5 @@
 # bft
-Build the Future Together（共创未来）
+Build the Future Together（共创未来） us:我们
 
 ### 文件目录结构
 - cli 脚手架模块
